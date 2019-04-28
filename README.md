@@ -1,3 +1,5 @@
+![预览](https://github.com/lujunda/LuGeTheme/blob/master/screenshot.png)
+
 # 简介
 本项目是一款wordpress主题。主题风格的创意来源于国外一款名为“glossy style”的免费主题。卢哥主题是一款以高性能为主打看点的作品，任何元素都以性能为前提进行设计。下面列出卢哥主题的主要特性：
 # 全站AJAX设计
